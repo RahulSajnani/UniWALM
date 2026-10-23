@@ -1,0 +1,77 @@
+cff-version: 1.2.0
+message: "If you use UniWALM in your research, please cite the paper below."
+title: "UniWALM: Unified World Action Language Model for Embodied Robot Control"
+type: article
+authors:
+  - family-names: Sajnani
+    given-names: Rahul
+    affiliation: "Brown University, Amazon"
+  - family-names: Romeres
+    given-names: Diego
+    affiliation: Amazon
+  - family-names: Zhang
+    given-names: Mingyuan
+    affiliation: "Amazon, Northeastern University"
+  - family-names: Gao
+    given-names: Kai
+    affiliation: Amazon
+  - family-names: Qi
+    given-names: Carl
+    affiliation: "Amazon, UT Austin"
+  - family-names: Huang
+    given-names: Baichuan
+    affiliation: Amazon
+  - family-names: Sridhar
+    given-names: Srinath
+    affiliation: Brown University
+  - family-names: Randle
+    given-names: Dylan
+    affiliation: Amazon
+  - family-names: Ratliff
+    given-names: "Lillian J."
+    affiliation: "Amazon, University of Washington"
+  - family-names: Barreiros
+    given-names: Jose
+    affiliation: Amazon
+  - family-names: Nambi
+    given-names: Manikantan
+    affiliation: Amazon
+  - family-names: Vanbaar
+    given-names: Jeroen
+    affiliation: Amazon
+year: 2026
+url: "https://arxiv.org/abs/2610.28626"
+repository-code: "https://github.com/RahulSajnani/UniWALM"
+preferred-citation:
+  type: article
+  title: "UniWALM: Unified World Action Language Model for Embodied Robot Control"
+  authors:
+    - family-names: Sajnani
+      given-names: Rahul
+    - family-names: Romeres
+      given-names: Diego
+    - family-names: Zhang
+      given-names: Mingyuan
+    - family-names: Gao
+      given-names: Kai
+    - family-names: Qi
+      given-names: Carl
+    - family-names: Huang
+      given-names: Baichuan
+    - family-names: Sridhar
+      given-names: Srinath
+    - family-names: Randle
+      given-names: Dylan
+    - family-names: Ratliff
+      given-names: "Lillian J."
+    - family-names: Barreiros
+      given-names: Jose
+    - family-names: Nambi
+      given-names: Manikantan
+    - family-names: Vanbaar
+      given-names: Jeroen
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2610.28626"
+  url: "https://arxiv.org/abs/2610.28626"
